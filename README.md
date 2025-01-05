@@ -32,11 +32,13 @@ We used the `albumentations` library to apply the following transformations:
 # Application Screenshots
 
 ### 1. Real-Time License Plate Detection
-![Real-Time Detection](path/to/real_time_detection.png)  
+![Application GUI](Application%20GUI.png)  
+![Real Time Recognition](Real-Time%20Recognition.png)  
 *Description: Screenshot showing real-time vehicle detection and license plate recognition.*
 
 ### 2. Query System GUI
-![Query System](path/to/query_system_gui.png)  
+![Query from License Plate](Query1.png)  
+![Query from Date Time](Query2.png)  
 *Description: The GUI interface for searching detected license plates by date, time, or number.*
 
 ### 3. Data Logging Example
