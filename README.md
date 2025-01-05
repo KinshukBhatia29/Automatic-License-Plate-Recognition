@@ -41,5 +41,4 @@ We used the `albumentations` library to apply the following transformations:
 ![Query from Date Time](Query2.png)  
 *Description: The GUI interface for searching detected license plates by date, time, or number.*
 
-### 3. Data Logging Example
   
